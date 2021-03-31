@@ -1,5 +1,5 @@
 {
-  "name": "@absinthe/socket",
+  "name": "@owaf/absinthe-socket",
   "version": "0.2.1",
   "description": "Absinthe Socket",
   "module": "dist/index.js",

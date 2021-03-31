@@ -1,5 +1,5 @@
 {
-  "name": "absinthe-socket",
+  "name": "@owaf/absinthe-socket",
   "private": true,
   "workspaces": [
     "packages/*"
